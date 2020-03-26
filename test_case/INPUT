@@ -1,0 +1,14 @@
+harm dot N=6, S=0
+2 6
+3 -1.0 0.067 1 256 4 1
+3 -1.0 0.067 1 256 4 1 
+6
+50
+0.1 3
+200 1000
+Estimator 0
+PairCorr 0.0 100.0 100 10
+GetConf 0
+Update 1 0.4 0.6
+diel 12.4 11.857 0
+desired_tau 0 0.0 0
